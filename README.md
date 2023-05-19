@@ -1,4 +1,5 @@
-### Hi there 👋
+# Song Sol
+  * Mini_Project[링크](https://github.com/likemilktea/Mini_Project/tree/main)
 
 <!--
 **likemilktea/likemilktea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
